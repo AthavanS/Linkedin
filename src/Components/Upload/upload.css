@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "adobe-clean", sans-serif;
+  
+}
+body{
+  width:100% !important;
+  margin: 0 auto;
+  
+  }
+  .main{
+    margin: 0 auto;
+    /* width: 1300px; */
+    padding: 3%;
+    width: 100%;
+    height:100vh ;
+  }
+  .maincard{
+      background-color:"white";
+      min-height:400px;
+      width: 100%;
+      /* min-width:1250px ;  */
+      box-shadow: 1px 2px 9px #F4AAB9;
+      position:relative;
+      bottom:60px;
+     right: 30px;
+    
+    }
+  
+    .maincard .pageheader{
+      font-weight: 700;
+      color: #f4891d;
+      position: relative;
+      bottom: 8px;
+     font-size: 13px;
+     font-weight: bold;
+    }
